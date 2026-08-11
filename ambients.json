@@ -1,6 +1,7 @@
 [
   {
     "id": "01-Bilateral-Tranquility-Variation-1.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/01-Bilateral-Tranquility-Variation-1.mp3",
     "name": {
@@ -13,6 +14,7 @@
   },
   {
     "id": "03-Bilateral-Harp.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/03-Bilateral-Harp.mp3",
     "name": {
@@ -25,6 +27,7 @@
   },
   {
     "id": "04-Bilateral-Stillness.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/04-Bilateral-Stillness.mp3",
     "name": {
@@ -37,6 +40,7 @@
   },
   {
     "id": "05-Bilateral-Eternal.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/05-Bilateral-Eternal.mp3",
     "name": {
@@ -49,6 +53,7 @@
   },
   {
     "id": "06-Transient.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/06-Transient.mp3",
     "name": {
@@ -61,6 +66,7 @@
   },
   {
     "id": "07-Bright-Ambient.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/07-Bright-Ambient.mp3",
     "name": {
@@ -73,6 +79,7 @@
   },
   {
     "id": "08-Spring-Sunrise.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/08-Spring-Sunrise.mp3",
     "name": {
@@ -85,6 +92,7 @@
   },
   {
     "id": "09-BLESSING.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/09-BLESSING.mp3",
     "name": {
@@ -97,6 +105,7 @@
   },
   {
     "id": "14-BLOSSOM.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/14-BLOSSOM.mp3",
     "name": {
@@ -109,6 +118,7 @@
   },
   {
     "id": "19-EARTH.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/19-EARTH.mp3",
     "name": {
@@ -121,6 +131,7 @@
   },
   {
     "id": "24-FLOATING.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/24-FLOATING.mp3",
     "name": {
@@ -133,6 +144,7 @@
   },
   {
     "id": "29-MOTION.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/29-MOTION.mp3",
     "name": {
@@ -145,6 +157,7 @@
   },
   {
     "id": "34-MOVEMENT.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/34-MOVEMENT.mp3",
     "name": {
@@ -157,6 +170,7 @@
   },
   {
     "id": "39-REPLENISH.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/39-REPLENISH.mp3",
     "name": {
@@ -169,6 +183,7 @@
   },
   {
     "id": "44-SANCTUARY.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/44-SANCTUARY.mp3",
     "name": {
@@ -181,6 +196,7 @@
   },
   {
     "id": "49-THE-DEEP.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/49-THE-DEEP.mp3",
     "name": {
@@ -193,6 +209,7 @@
   },
   {
     "id": "54-TIMING.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/54-TIMING.mp3",
     "name": {
@@ -205,6 +222,7 @@
   },
   {
     "id": "59-TUNING.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/59-TUNING.mp3",
     "name": {
@@ -217,6 +235,7 @@
   },
   {
     "id": "AmbientLight.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/AmbientLight.mp3",
     "name": {
@@ -229,6 +248,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-01-Timeless-Space.wav",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-01-Timeless-Space.wav",
     "name": {
@@ -241,6 +261,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-02-A-Soft-Breeze.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-02-A-Soft-Breeze.mp3",
     "name": {
@@ -253,6 +274,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-03-Only-Tranquility.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-03-Only-Tranquility.mp3",
     "name": {
@@ -265,6 +287,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-04-Bed-Of-Flowers.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-04-Bed-Of-Flowers.mp3",
     "name": {
@@ -277,6 +300,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-05-The-Gate.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-05-The-Gate.mp3",
     "name": {
@@ -289,6 +313,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-06-The-Distance.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-06-The-Distance.mp3",
     "name": {
@@ -301,6 +326,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-07-The-Kiss-Of-Spring.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-07-The-Kiss-Of-Spring.mp3",
     "name": {
@@ -313,6 +339,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-08-Close-Your-Eyes.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-08-Close-Your-Eyes.mp3",
     "name": {
@@ -325,6 +352,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-09-Oceans-Crossing.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-09-Oceans-Crossing.mp3",
     "name": {
@@ -337,6 +365,7 @@
   },
   {
     "id": "Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-10-Voice-Of-Eden.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Ambient-Meets-Classical-Music-Free-No-Copyright-Music-by-Liborio-Conti-10-Voice-Of-Eden.mp3",
     "name": {
@@ -349,6 +378,7 @@
   },
   {
     "id": "BeachAmbient.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/BeachAmbient.mp3",
     "name": {
@@ -361,6 +391,7 @@
   },
   {
     "id": "BeachSerenity.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/BeachSerenity.mp3",
     "name": {
@@ -373,6 +404,7 @@
   },
   {
     "id": "Bright-And-Clear-No-Copyright-Music-01-Bright-And-Clear.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Bright-And-Clear-No-Copyright-Music-01-Bright-And-Clear.mp3",
     "name": {
@@ -385,6 +417,7 @@
   },
   {
     "id": "ByTheFire.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/ByTheFire.mp3",
     "name": {
@@ -397,6 +430,7 @@
   },
   {
     "id": "Calmness.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Calmness.mp3",
     "name": {
@@ -409,6 +443,7 @@
   },
   {
     "id": "Cinelax.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Cinelax.mp3",
     "name": {
@@ -421,6 +456,7 @@
   },
   {
     "id": "DeeperMeaning.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/DeeperMeaning.mp3",
     "name": {
@@ -433,6 +469,7 @@
   },
   {
     "id": "Emotional-Piano-Free-Royalty-Free-Relaxing-Music-by-Liborio-Conti-01-I-Believe.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Emotional-Piano-Free-Royalty-Free-Relaxing-Music-by-Liborio-Conti-01-I-Believe.mp3",
     "name": {
@@ -445,6 +482,7 @@
   },
   {
     "id": "Evolving-Pads-Free-Relaxing-Royalty-Free-Music-by-Liborio-Conti-01-Evolving-Pads.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Evolving-Pads-Free-Relaxing-Royalty-Free-Music-by-Liborio-Conti-01-Evolving-Pads.mp3",
     "name": {
@@ -457,6 +495,7 @@
   },
   {
     "id": "Forestal.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Forestal.mp3",
     "name": {
@@ -469,6 +508,7 @@
   },
   {
     "id": "Forever.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Forever.mp3",
     "name": {
@@ -481,6 +521,7 @@
   },
   {
     "id": "ForgottonPlace.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/ForgottonPlace.mp3",
     "name": {
@@ -493,6 +534,7 @@
   },
   {
     "id": "Frozen-in-Time.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Frozen-in-Time.mp3",
     "name": {
@@ -505,6 +547,7 @@
   },
   {
     "id": "Horizon.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Horizon.mp3",
     "name": {
@@ -517,6 +560,7 @@
   },
   {
     "id": "Inspiring-Ambient-No-Copyright-Music-01-Inspiring-Ambient.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Inspiring-Ambient-No-Copyright-Music-01-Inspiring-Ambient.mp3",
     "name": {
@@ -529,6 +573,7 @@
   },
   {
     "id": "Just-Relax-No-Copyright-Music-01-Just-Relax.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Just-Relax-No-Copyright-Music-01-Just-Relax.mp3",
     "name": {
@@ -541,6 +586,7 @@
   },
   {
     "id": "Light-And-Balanced-No-Copyright-Music-01-Light-And-Balanced.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Light-And-Balanced-No-Copyright-Music-01-Light-And-Balanced.mp3",
     "name": {
@@ -553,6 +599,7 @@
   },
   {
     "id": "Nature’s-Call.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Nature%E2%80%99s-Call.mp3",
     "name": {
@@ -565,6 +612,7 @@
   },
   {
     "id": "NatureAmbience.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/NatureAmbience.mp3",
     "name": {
@@ -577,6 +625,7 @@
   },
   {
     "id": "Noisescape.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Noisescape.mp3",
     "name": {
@@ -589,6 +638,7 @@
   },
   {
     "id": "OnAPianoAcloudNatureSounds.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/OnAPianoAcloudNatureSounds.mp3",
     "name": {
@@ -601,6 +651,7 @@
   },
   {
     "id": "OnAPianoCloud.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/OnAPianoCloud.mp3",
     "name": {
@@ -613,6 +664,7 @@
   },
   {
     "id": "Peaceful-Sleep-Music-Free-Royalty-Free-Music-by-Liborio-Conti-01-Peaceful-Sleep-Music.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Peaceful-Sleep-Music-Free-Royalty-Free-Music-by-Liborio-Conti-01-Peaceful-Sleep-Music.mp3",
     "name": {
@@ -625,6 +677,7 @@
   },
   {
     "id": "Pure-Ambient-No-Copyright-Music-01-Pure-Ambient.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Pure-Ambient-No-Copyright-Music-01-Pure-Ambient.mp3",
     "name": {
@@ -637,6 +690,7 @@
   },
   {
     "id": "Reflections-No-Copyright-Music-01-Reflections.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Reflections-No-Copyright-Music-01-Reflections.mp3",
     "name": {
@@ -649,6 +703,7 @@
   },
   {
     "id": "RelaxingMoment.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/RelaxingMoment.mp3",
     "name": {
@@ -661,6 +716,7 @@
   },
   {
     "id": "SerenityInTheWoods.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/SerenityInTheWoods.mp3",
     "name": {
@@ -673,6 +729,7 @@
   },
   {
     "id": "SoftAndFragile.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/SoftAndFragile.mp3",
     "name": {
@@ -685,6 +742,7 @@
   },
   {
     "id": "TheCalling.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/TheCalling.mp3",
     "name": {
@@ -697,6 +755,7 @@
   },
   {
     "id": "TibetanBowls.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/TibetanBowls.mp3",
     "name": {
@@ -709,6 +768,7 @@
   },
   {
     "id": "TranquilReflections.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/TranquilReflections.mp3",
     "name": {
@@ -721,6 +781,7 @@
   },
   {
     "id": "Winter.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Winter.mp3",
     "name": {
@@ -733,6 +794,7 @@
   },
   {
     "id": "Wonder.mp3",
+    "duration": 180,
     "artist": "Liborio Conti",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/Wonder.mp3",
     "name": {
@@ -745,6 +807,7 @@
   },
   {
     "id": "1.HOUR.Echoes.In.The.Canyon.No.Copyright.-.Flute.Meditation.Relaxation.Ambient.mp3",
+    "duration": 3600,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.Echoes.In.The.Canyon.No.Copyright.-.Flute.Meditation.Relaxation.Ambient.mp3",
     "name": {
@@ -757,6 +820,7 @@
   },
   {
     "id": "1.HOUR.Meditation.Relaxation.Sleep.Stress.Relief.Calm.Ambient.No.Copyright.mp3",
+    "duration": 3600,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.Meditation.Relaxation.Sleep.Stress.Relief.Calm.Ambient.No.Copyright.mp3",
     "name": {
@@ -769,6 +833,7 @@
   },
   {
     "id": "1.HOUR.Meditation.Relaxation.Sleep.Stress.Relief.Calm.Ambient.No.Copyright2.mp3",
+    "duration": 3600,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.Meditation.Relaxation.Sleep.Stress.Relief.Calm.Ambient.No.Copyright2.mp3",
     "name": {
@@ -781,6 +846,7 @@
   },
   {
     "id": "1.HOUR.No.Copyright.Relaxation.Meditation.Calm.Stress.Relief.Soothing.Yoga.Ambient.Music.mp3",
+    "duration": 3600,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.No.Copyright.Relaxation.Meditation.Calm.Stress.Relief.Soothing.Yoga.Ambient.Music.mp3",
     "name": {
@@ -793,6 +859,7 @@
   },
   {
     "id": "1.HOUR.Royalty.Free.No.Copyright.Soft.Piano.Meditation.Relaxation.Stress.Relief.mp3",
+    "duration": 3600,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.Royalty.Free.No.Copyright.Soft.Piano.Meditation.Relaxation.Stress.Relief.mp3",
     "name": {
@@ -805,6 +872,7 @@
   },
   {
     "id": "1.HOUR.Royalty.Free.No.Copyright.Soft.Piano.Meditation.Relaxation.Stress.Relief.Music.mp3",
+    "duration": 3600,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.Royalty.Free.No.Copyright.Soft.Piano.Meditation.Relaxation.Stress.Relief.Music.mp3",
     "name": {
@@ -817,6 +885,7 @@
   },
   {
     "id": "30.MIN.Into.the.Heavens.No.Copyright.Meditation.Relaxation.Stress.Relief.Ambient.Music.mp3",
+    "duration": 1800,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/30.MIN.Into.the.Heavens.No.Copyright.Meditation.Relaxation.Stress.Relief.Ambient.Music.mp3",
     "name": {
@@ -829,6 +898,7 @@
   },
   {
     "id": "30-MIN-Short-Ambient-Escape.mp3",
+    "duration": 1800,
     "artist": "Dandelion Meditation",
     "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/30-MIN-Short-Ambient-Escape.mp3",
     "name": {
