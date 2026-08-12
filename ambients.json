@@ -819,6 +819,32 @@
     "modifications": "Utwór został zmodyfikowany (docięty / zapętlony na potrzeby aplikacji)."
   },
   {
+    "id": "1.HOUR.Meditationt.mp3",
+    "duration": 3804,
+    "artist": "Dandelion Meditation",
+    "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.Meditationt.mp3",
+    "name": {
+      "pl": "1 HOUR Meditation",
+      "en": "1 HOUR Meditation"
+    },
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/)",
+    "sourceUrl": "https://www.youtube.com/watch?v=izfCM0g84UM",
+    "modifications": "Utwór został zmodyfikowany (docięty / zapętlony na potrzeby aplikacji)."
+  },
+  {
+    "id": "1.HOUR.Flute.Birds.Relaxation.mp3",
+    "duration": 3804,
+    "artist": "Dandelion Meditation",
+    "downloadUrl": "https://github.com/OneAndOnlyOnlyOne/ambient-assets/releases/download/v1.0.0/1.HOUR.Flute.Birds.Relaxation.mp3",
+    "name": {
+      "pl": "Flute, Birds, Relaxation",
+      "en": "Flute, Birds, Relaxation"
+    },
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/)",
+    "sourceUrl": "https://www.youtube.com/watch?v=6ma9pCJfg0Y",
+    "modifications": "Utwór został zmodyfikowany (docięty / zapętlony na potrzeby aplikacji)."
+  },
+  {
     "id": "1.HOUR.Meditation.Relaxation.Sleep.Stress.Relief.Calm.Ambient.No.Copyright.mp3",
     "duration": 3605,
     "artist": "Dandelion Meditation",
