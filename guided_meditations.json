@@ -1,0 +1,56 @@
+[
+  {
+    "id": "guided_breathing_01",
+    "title": {
+      "pl": "Oddechowa podróż",
+      "en": "Breathing Journey",
+      "de": "Atemreise",
+      "es": "Viaje de respiración",
+      "ru": "Дыхательное путешествие"
+    },
+    "description": {
+      "pl": "10-minutowa medytacja oddechowa na wyciszenie umysłu i redukcję stresu.",
+      "en": "10-minute breathing meditation to calm the mind and reduce stress.",
+      "de": "10-minütige Atemmeditation zur Beruhigung des Geistes und Stressreduktion.",
+      "es": "Meditación de respiración de 10 minutos para calmar la mente y reducir el estrés.",
+      "ru": "10-минутная дыхательная медитация для успокоения ума и снижения стресса."
+    },
+    "duration_seconds": 600,
+    "thumbnail_url": "",
+    "audio_files": {
+      "pl": "guided_breathing_01_pl.mp3",
+      "en": "guided_breathing_01_en.mp3",
+      "de": "guided_breathing_01_de.mp3",
+      "es": "guided_breathing_01_es.mp3",
+      "ru": "guided_breathing_01_ru.mp3"
+    },
+    "base_download_url": "https://raw.githubusercontent.com/OneAndOnlyOnlyOne/ambient-assets/main/guided/"
+  },
+  {
+    "id": "guided_bodyscan_01",
+    "title": {
+      "pl": "Skanowanie ciała",
+      "en": "Body Scan",
+      "de": "Körperscan",
+      "es": "Escaneo corporal",
+      "ru": "Сканирование тела"
+    },
+    "description": {
+      "pl": "15-minutowa praktyka uważności skierowana na rozluźnienie poszczególnych partii ciała.",
+      "en": "15-minute mindfulness practice focused on relaxing individual body parts.",
+      "de": "15-minütige Achtsamkeitspraxis zur Entspannung einzelner Körperteile.",
+      "es": "Práctica de atención plena de 15 minutos enfocada en relajar partes individuales del cuerpo.",
+      "ru": "15-минутная практика осознанности, направленная на расслабление отдельных частей тела."
+    },
+    "duration_seconds": 900,
+    "thumbnail_url": "",
+    "audio_files": {
+      "pl": "guided_bodyscan_01_pl.mp3",
+      "en": "guided_bodyscan_01_en.mp3",
+      "de": "guided_bodyscan_01_de.mp3",
+      "es": "guided_bodyscan_01_es.mp3",
+      "ru": "guided_bodyscan_01_ru.mp3"
+    },
+    "base_download_url": "https://raw.githubusercontent.com/OneAndOnlyOnlyOne/ambient-assets/main/guided/"
+  }
+]
